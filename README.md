@@ -3,7 +3,7 @@ Group Assignment 1(Group 8)
 Cloud Based Management App
 1. Product owner:(Names)
 2. Scrum Master:
-3. Developer 1:
+3. Developer 1:Julieth Japhet Rutaihwa
 4. Developer 2:
 5. Developer 3:
 6. Developer 4:Benta Victory Timbulu
