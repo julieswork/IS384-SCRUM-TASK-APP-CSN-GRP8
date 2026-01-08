@@ -1,7 +1,7 @@
 # IS384-SCRUM-TASK-APP-CSN-GRP8
 Group Assignment 1(Group 8)
 Cloud Based Management App
-1. Product owner:(Names)
+1. Product owner:Shedrack Albert Guruyedi
 2. Scrum Master:
 3. Developer 1:
 4. Developer 2:
