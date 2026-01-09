@@ -7,6 +7,3 @@
     - Notification
 
 
-##Sprint goal
-
-##Definition of Done
