@@ -1,6 +1,6 @@
-#Scrum Overview
+# Scrum Overview
 
-#Scrum roles
+## Scrum roles
     1. Product owner: shedrack albert
     2. Scrum Master: jackline mzava
     3. Developer 1: welason lucas
@@ -9,13 +9,3 @@
     6. Developer 4: benta victory
     7. Developer 5: tumain emmanuel
 
-#Scrum Events
-    Sprint Planning
-    Daily Scrum
-    Sprint Review
-    Sprint Retrospective
-
-#Scrum Artificats
-    Product backlog
-    Sprint backlog
-    Increment
