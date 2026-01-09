@@ -32,6 +32,9 @@
    - Mark task complete
    - Display task list
    - Notification
+
 Sprint for each task per day is 9 hours from 0800hrs to 1700hrs
-    **Increment**
+  
+    
+**Increment**
 Working version of Cloud based task management app with completed features.
