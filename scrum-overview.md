@@ -1,14 +1,13 @@
 #Scrum Overview
 
 #Scrum roles
-    1. Product owner: )(Names) 
-    2. Scrum Master:
-    3. Developer 1:
-    4. Developer 2:
-    5. Developer 3:
-    6. Developer 4:
-    7. Developer 5:
-    8. Developer 6:
+    1. Product owner: shedrack albert
+    2. Scrum Master: jackline mzava
+    3. Developer 1: welason lucas
+    4. Developer 2: julieth japhet
+    5. Developer 3: kasunga david
+    6. Developer 4: benta victory
+    7. Developer 5: tumain emmanuel
 
 #Scrum Events
     Sprint Planning
