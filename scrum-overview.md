@@ -1,6 +1,6 @@
-#Scrum Overview
+# Scrum Overview
 
-##Scrum roles
+## Scrum roles
     1. Product owner: )(Names) 
     2. Scrum Master:
     3. Developer 1:
@@ -12,15 +12,8 @@
 
 ## Scrum Events
    **Sprint Planning**
-    sprint goal is Development of Cloud Based Task Management App
-    **sprint backlog**
-      - Add new task
-      - Assign task to user
-      - Mark task complete
-      - Display task list
-      - Notification
-    
-    Scrum sprint(1 week)
+    sprint goal is Development of Cloud Based Task Management App.
+    Scrum sprint is 1 week
 
 **Daily scrum**
      short daily meeting for two hours
@@ -32,14 +25,7 @@
        -check areas for improvement in scrum team
        -plan improvement for the next sprint
 
-      # scrum artifacts
-       
-
-     
-    
-    
-    Sprint Review
-    Sprint Retrospective
+      
 
 #Scrum Artificats
     Product backlog
