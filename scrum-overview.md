@@ -11,6 +11,7 @@
 
 **sprint review**
      check for completed features and give feedback to the scrum team
+     
  **Retrospective**
        -check areas for improvement in scrum team
        -plan improvement for the next sprint
