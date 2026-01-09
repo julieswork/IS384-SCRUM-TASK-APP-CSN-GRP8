@@ -1,13 +1,19 @@
-# IS384-SCRUM-TASK-APP-CSN-GRP8
-Group Assignment 1(Group 8)
-Cloud Based Management App
-1. Product owner:(Names)
-2. Scrum Master:
-3. Developer 1:Julieth Japhet Rutaihwa
-4. Developer 2:
-5. Developer 3:
-6. Developer 4:Benta Victory Timbulu
-7. Developer 5:
-8. Developer 6:
+# Cloud-Based Task Management App
 
-Short description on what the project is about.
+
+## Scrum Team Members and Roles
+
+| Name                          | Registration Number | Scrum Role        |
+|-------------------------------|---------------------|-------------------|
+| Shedrack Albert Guruyedi      | 30422/T.2023        | Product Owner     |
+| Jackline Kelvin Mzava         | 31891/T.2023        | Scrum Master      |
+| David C Kasunga               | 31112/T.2023        | Developer         |
+| Welason Havyalimana Lucas     | 32169/T.2023        | Developer         |
+| Tumaini Emmanuel Mbunda       | 31003/T.2023        | Developer         |
+| Julieth Japhet Rutaihwa       | 30784/T.2023        | Developer         |
+| Benta Victory Timbulu         | 32208/T.2023        | Developer         |
+
+
+## Project Description
+
+The **Cloud-Based Task Management App** is a web-based system designed to help teams organize, manage, and monitor their daily tasks in a centralized environment.This project is developed using the **Scrum framework** as part of the **IS 384 – Cloud and DevOps** course, emphasizing agile teamwork, task collaboration, and cloud-based application concepts within a single sprint.
