@@ -10,25 +10,25 @@
     7. Developer 5:
     8. Developer 6:
 
-##Scrum Events
+## Scrum Events
    **Sprint Planning**
     sprint goal is Development of Cloud Based Task Management App
     **sprint backlog**
-      -Add new task
-      -Assign task to user
-      -Mark task complete
-      -Display task list
-      -Notification
+      - Add new task
+      - Assign task to user
+      - Mark task complete
+      - Display task list
+      - Notification
     
     Scrum sprint(1 week)
 
-    **Daily scrum**
+**Daily scrum**
      short daily meeting for two hours
      discussion on progress and next steps
 
-     **sprint review**
+**sprint review**
      check for completed features and give feedback to the scrum team
-     **Retrospective**
+ **Retrospective**
        -check areas for improvement in scrum team
        -plan improvement for the next sprint
 
