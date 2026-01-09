@@ -1,23 +1,19 @@
 
-# Scrum Artificats
-   **Product backlog**
-   Cloud based task management App that will allow:
-   - Add new task
-   - Assign task to user
-   - Mark task complete
-   - Display task list
-   - Notification
-  
-   
-   **Sprint backlog**
-   - Add new task
-   - Assign task to user
-   - Mark task complete
-   - Display task list
-   - Notification
 
-Sprint for each task per day is 9 hours from 0800hrs to 1700hrs
-  
+## Scrum Events
+   **Sprint Planning**
+    sprint goal is Development of Cloud Based Task Management App.
+    Scrum sprint is 1 week
+
+**Daily scrum**
+     short daily meeting for two hours
+     discussion on progress and next steps
+
+**sprint review**
+     check for completed features and give feedback to the scrum team
+     
+ **Retrospective**
+       -check areas for improvement in scrum team
+       -plan improvement for the next sprint
+
     
-**Increment**
-Working version of Cloud based task management app with completed features.
